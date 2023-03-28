@@ -2,7 +2,13 @@
 
 # Welcome to my GitHub Profile!
 
-I'm Chris Ayers (he/him), a Senior Customer Engineer at Microsoft. Here are some of my major project repos based on talks:
+I'm Chris Ayers (he/him), a Senior Customer Engineer at Microsoft. In my spare time, I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts. 
+
+I blog at: [https://chris-ayers.com/](https://chris-ayers.com/)
+
+## Repos
+
+Here are some of my repos based on my talks:
 
 - [github-actions-demos](https://github.com/codebytes/github-actions-demos)
 - [secure-terraform-on-azure](https://github.com/codebytes/secure-terraform-on-azure)
