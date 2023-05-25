@@ -16,6 +16,8 @@ Here are some of my repos based on my talks:
 - [build-with-bicep](https://github.com/codebytes/build-with-bicep)
 - [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
 - [dev-containers](https://github.com/codebytes/dev-containers)
+- [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency)
+- [marp-slides-template](https://github.com/codebytes/marp-slides-template)
 
 ## Connect with Chris Ayers
 
