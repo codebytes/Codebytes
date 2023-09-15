@@ -17,6 +17,7 @@ Here are some of my repos based on my talks:
 - [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
 - [dev-containers](https://github.com/codebytes/dev-containers)
 - [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency)
+- [testing-with-playwright](https://github.com/codebytes/testing-with-playwright)
 - [marp-slides-template](https://github.com/codebytes/marp-slides-template)
 
 ## Connect with Chris Ayers
