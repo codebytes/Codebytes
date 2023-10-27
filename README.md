@@ -10,14 +10,16 @@ I blog at: [https://chris-ayers.com/](https://chris-ayers.com/)
 
 Here are some of my repos based on my talks:
 
+- [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
 - [github-actions-demos](https://github.com/codebytes/github-actions-demos)
 - [secure-terraform-on-azure](https://github.com/codebytes/secure-terraform-on-azure)
-- [feature-flags](https://github.com/codebytes/feature-flags)
 - [build-with-bicep](https://github.com/codebytes/build-with-bicep)
-- [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
 - [dev-containers](https://github.com/codebytes/dev-containers)
 - [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency)
+- [load-testing](https://github.com/codebytes/load-testing)
+- [feature-flags](https://github.com/codebytes/feature-flags)
 - [testing-with-playwright](https://github.com/codebytes/testing-with-playwright)
+- [sre-devops-platform-eng](https://github.com/codebytes/sre-devops-platform-eng)
 - [marp-slides-template](https://github.com/codebytes/marp-slides-template)
 
 ## Connect with Chris Ayers
