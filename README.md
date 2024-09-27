@@ -12,6 +12,7 @@ You can see my sessions at: [https://sessionize.com/ChrisAyers](https://sessioni
 Here are some of my repos based on my talks:
 
 - [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
+- [containerizing-dotnet](https://github.com/codebytes/containerizing-dotnet)
 - [github-actions-demos](https://github.com/codebytes/github-actions-demos)
 - [secure-terraform-on-azure](https://github.com/codebytes/secure-terraform-on-azure)
 - [build-with-bicep](https://github.com/codebytes/build-with-bicep)
