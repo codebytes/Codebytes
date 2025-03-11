@@ -12,6 +12,7 @@ You can see my sessions at: [https://sessionize.com/ChrisAyers](https://sessioni
 Here are some of my repos based on my talks:
 
 - [the-well-architected-architect](https://github.com/codebytes/the-well-architected-architect)
+- [azure-resiliency](https://github.com/codebytes/azure-resiliency)
 - [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
 - [containerizing-dotnet](https://github.com/codebytes/containerizing-dotnet)
 - [github-actions-demos](https://github.com/codebytes/github-actions-demos)
