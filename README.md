@@ -12,12 +12,12 @@ You can see my sessions at: [https://sessionize.com/ChrisAyers](https://sessioni
 Here are some of my repos based on my talks:
 
 - [azure-resiliency](https://github.com/codebytes/azure-resiliency)
-dotnet-configuration-in-depth)
 - [build-with-aspire (Aspiring .NET with AI)](https://github.com/codebytes/build-with-aspire)
 - [build-with-bicep](https://github.com/codebytes/build-with-bicep)
 - [containerizing-dotnet](https://github.com/codebytes/containerizing-dotnet)
 - [dev-containers](https://github.com/codebytes/dev-containers)
-- [dotnet-configuration-in-depth](https://github.com/codebytes/- [feature-flags](https://github.com/codebytes/feature-flags)
+- [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth)
+- [feature-flags](https://github.com/codebytes/feature-flags)
 - [github-actions-demos](https://github.com/codebytes/github-actions-demos)
 - [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency)
 - [load-testing](https://github.com/codebytes/load-testing)
